@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\Its-a-secret\CIS3342\CIS3342\CreditCardLibary\bin\Debug\CreditCardLibary.dll
+C:\Users\David\Desktop\Its-a-secret\CIS3342\CIS3342\CreditCardLibary\bin\Debug\CreditCardLibary.pdb
+C:\Users\David\Desktop\Its-a-secret\CIS3342\CIS3342\CreditCardLibary\obj\Debug\CreditCardLibary.dll
+C:\Users\David\Desktop\Its-a-secret\CIS3342\CIS3342\CreditCardLibary\obj\Debug\CreditCardLibary.pdb
+C:\Users\David\Desktop\Its-a-secret\CIS3342\CIS3342\CreditCardLibary\obj\Debug\CreditCardLibary.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Its-a-secret\CIS3342\CIS3342\CreditCardLibary\bin\Debug\CreditCardLibary.dll.config

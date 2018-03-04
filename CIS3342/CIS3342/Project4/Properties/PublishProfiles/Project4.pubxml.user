@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>X:\Project4</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Apply.aspx">
+      <publishTime>11/13/2017 21:23:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>11/09/2017 12:12:35</publishTime>
+    </File>
+    <File Include="bin/Project4.dll">
+      <publishTime>11/13/2017 22:08:50</publishTime>
+    </File>
+    <File Include="bin/Project4.XmlSerializers.dll">
+      <publishTime>11/13/2017 22:08:50</publishTime>
+    </File>
+    <File Include="bin/Project4WebService.dll">
+      <publishTime>11/13/2017 22:07:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>11/09/2017 12:12:36</publishTime>
+    </File>
+    <File Include="bin/Utilities.dll">
+      <publishTime>11/13/2017 21:49:55</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/09/2017 12:12:35</publishTime>
+    </File>
+    <File Include="Payment.aspx">
+      <publishTime>11/13/2017 21:13:52</publishTime>
+    </File>
+    <File Include="Purchase.aspx">
+      <publishTime>11/13/2017 21:13:52</publishTime>
+    </File>
+    <File Include="Transaction.aspx">
+      <publishTime>11/13/2017 21:13:52</publishTime>
+    </File>
+    <File Include="UpdateInfo.aspx">
+      <publishTime>11/13/2017 21:13:52</publishTime>
+    </File>
+    <File Include="Web References/CreditCardSvc/Reference.map">
+      <publishTime>11/13/2017 22:08:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/13/2017 22:08:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

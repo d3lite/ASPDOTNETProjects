@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>David's Sandwich Builder</title>
+    <meta charset="utf-8" />
+    <style type="text/css">
+        #Select1 {
+            width: 119px;
+        }
+    </style>
+</head>
+<body>
+    <h1> Let's build your sandwich </h1>
+    <p>
+        <a href="http://cis-iis2.temple.edu/Fall2017/CIS3342_tue59286">Home</a></p>
+
+    <FORM id=”frmSandwichBuilder” method="post" action="SandwichSelection.aspx">
+        <p>
+            Enter your name:
+            <input id="txtName" name="txtName" type="text" value="Please enter your name" />
+        </p>
+
+        <p>
+            Enter your phone number
+            <input id="txtPhone" name="txtPhone" type="text" value="Please enter your phone number" />
+        </p>
+
+
+        <div>
+            Please choose your size:<br />
+            <select id="sandwichSize" name="sandwichSize">
+                <option value="Small">Small ($3.00)</option>
+                <option value="Medium">Medium ($4.00)</option>
+                <option value="Large">Large ($5.00)</option>
+            </select><br />
+
+            Choose your meat:
+            <br />
+            <select id="Meat" name="Meat">
+                <option value="Turkey">Turkey</option>
+                <option value="BBQ Chicken">BBQ Chicken</option>
+                <option value="Roast Beef">Roast Beef</option>
+                <option value="Ham">Ham</option>
+                <option value="Turkey Ham">Turkey Ham</option>
+            </select><br />
+            <br />
+
+            <input id="chkToasted" name="chkAdditional" type="checkbox" value="Toasted" />Toasted
+            <input id="chkNotToasted" name="chkAdditional" type="checkbox" value="Not Toasted" />Not Toasted |
+            <br />
+            <input id="chkLettuce" name="chkAdditional" value="Lettuce" type="checkbox" />Lettuce
+            <input id="chkTomato" name="chkAdditional" value="Tomato" type="checkbox" /> Tomato
+            <input id="chkOnions" name="chkAdditional" value="Onions" type="checkbox" /> Onions
+            <input id="chkPickles" name="chkAdditional" value="Pickles" type="checkbox" />Pickles
+            <input id="chkPeppers" name="chkAdditional" value="Peppers" type="checkbox" /> Peppers |
+            <br />
+            <input id="chkAmericanCheese" name="chkAdditional" value="American Cheese" type="checkbox" /> American Cheese
+            <input id="chkCheddarCheese" name="chkAdditional" value="Cheddar Cheese" type="checkbox" /> Cheddar Cheese
+            <input id="chkMayo" name="chkAdditional" value="Mayo" type="checkbox" /> Mayo |<br />
+            <br />
+            Additional Items:
+            <br />
+            <input id="chkExtraCheese" name="chkPremium" type="checkbox" value="Extra Cheese" /> Extra Cheese ($1.00)
+            <input id="chkExtraMeat" name="chkPremium" value="Extra Meat" type="checkbox" /> Extra Meat ($3.00)
+            <input id="chkAddBacon" name="chkPremium" value="Add Bacon" type="checkbox" /> Add Bacon ($2.00)<br />
+            <br />
+            Make it a meal!
+            <br />
+            <input id="chkMeal" name="chkMeal" type="checkbox" value="Fountain Drinks and Chips" />Add fountain drinks and chips for just $3.00 more!<br />
+
+            <br />
+            Leave a Tip :
+
+            <input id="Radio0" name="txtTips" type="radio" value="$0.00" /> $0.00
+            <input id="Radio1" name="txtTips" type="radio" value="$1.00" /> $1.00
+            <input id="Radio2" name="txtTips" type="radio" value="$2.00" />$2.00
+            <input id="Radio3" name="txtTips" type="radio" value="$3.00" />$3.00
+            <input id="Radio4" name="txtTips" type="radio" value="$5.00" />$5.00<br />
+            <br />
+            <br />
+
+            <p>
+                <input id="SubmitOrder" type="submit" value="Submit Order" />
+            </p>
+            <p>
+                &nbsp;
+            </p>
+    </FORM>
+</body>
+</html>

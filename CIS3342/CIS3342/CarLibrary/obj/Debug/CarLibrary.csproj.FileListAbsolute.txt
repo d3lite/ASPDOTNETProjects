@@ -1,0 +1,9 @@
+G:\CIS3342\CarLibrary\bin\Debug\CarLibrary.dll
+G:\CIS3342\CarLibrary\bin\Debug\CarLibrary.pdb
+G:\CIS3342\CarLibrary\obj\Debug\CarLibrary.dll
+G:\CIS3342\CarLibrary\obj\Debug\CarLibrary.pdb
+C:\Users\David\Desktop\CIS3342\CIS3342\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\David\Desktop\CIS3342\CIS3342\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\David\Desktop\CIS3342\CIS3342\CarLibrary\obj\Debug\CarLibrary.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\CIS3342\CIS3342\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\David\Desktop\CIS3342\CIS3342\CarLibrary\obj\Debug\CarLibrary.pdb

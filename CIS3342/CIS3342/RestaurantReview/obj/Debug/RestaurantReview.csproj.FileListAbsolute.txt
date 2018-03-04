@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\CIS3342\CIS3342\RestaurantReview\bin\Debug\RestaurantReview.dll
+C:\Users\David\Desktop\CIS3342\CIS3342\RestaurantReview\bin\Debug\RestaurantReview.pdb
+C:\Users\David\Desktop\CIS3342\CIS3342\RestaurantReview\bin\Debug\Utilities.dll
+C:\Users\David\Desktop\CIS3342\CIS3342\RestaurantReview\bin\Debug\Utilities.pdb
+C:\Users\David\Desktop\CIS3342\CIS3342\RestaurantReview\obj\Debug\RestaurantReview.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\CIS3342\CIS3342\RestaurantReview\obj\Debug\RestaurantReview.dll
+C:\Users\David\Desktop\CIS3342\CIS3342\RestaurantReview\obj\Debug\RestaurantReview.pdb
+G:\CIS3342\CIS3342\RestaurantReview\bin\Debug\RestaurantReview.dll
+G:\CIS3342\CIS3342\RestaurantReview\bin\Debug\RestaurantReview.pdb
+G:\CIS3342\CIS3342\RestaurantReview\bin\Debug\Utilities.dll
+G:\CIS3342\CIS3342\RestaurantReview\bin\Debug\Utilities.pdb
+G:\CIS3342\CIS3342\RestaurantReview\obj\Debug\RestaurantReview.csprojResolveAssemblyReference.cache
+G:\CIS3342\CIS3342\RestaurantReview\obj\Debug\RestaurantReview.dll
+G:\CIS3342\CIS3342\RestaurantReview\obj\Debug\RestaurantReview.pdb
